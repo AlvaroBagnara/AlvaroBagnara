@@ -25,7 +25,7 @@
 
 <h4 align="center">
   Hey, I'm Alvaro!
-  is nice to see you here 😄👋
+  it's nice to see you here 😄👋
 </h4>
 <p align="center">
   📌 Living in <b>Gramado</b>, <b>Rio Grande do Sul</b>, <b>Brazil</b> &nbsp; 💼 Programmer at <b>Smartel - Inteligência em Telecomunicações 👨🏻‍💻❤️</b>
