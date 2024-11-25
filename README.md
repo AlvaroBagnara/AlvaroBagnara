@@ -27,9 +27,6 @@
   Hey, I'm Alvaro!
   it's nice to see you here 😄👋
 </h4>
-<p align="center">
-  📌 Living in <b>Gramado</b>, <b>Rio Grande do Sul</b>, <b>Brazil</b> &nbsp; 💼 Programmer at <b>Smartel - Inteligência em Telecomunicações 👨🏻‍💻❤️</b>
-</p>
 <!--
 **AlvaroBagnara/AlvaroBagnara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
